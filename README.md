@@ -20,10 +20,10 @@ With over 5 years of hands-on experience across full-stack QA, backend API valid
 ---
 ### 📊 **GitHub Stats**
 
-![Fernando's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=fernandogcabal&theme=tokyonight&hide_border=false)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernandogcabal&layout=compact&theme=tokyonight)
-
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandogcabal&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernandogcabal&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+</p>
 ---
 
 ### 📌 **Featured Automation Projects**
