@@ -18,13 +18,11 @@ With over 5 years of hands-on experience across full-stack QA, backend API valid
 - **Management & Methodologies:** Jira, TestRail, Agile (Scrum/Kanban), Bug Lifecycle, Code Reviews
 
 ---
-
 ### 📊 **GitHub Stats**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandogcabal&show_icons=true&theme=tokyonight" alt="Fernando's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandogcabal&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
-</p>
+![Fernando's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=fernandogcabal&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fernandogcabal&layout=compact&theme=tokyonight)
 
 ---
 
