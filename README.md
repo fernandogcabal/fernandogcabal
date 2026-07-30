@@ -1,4 +1,4 @@
-# Hi there, I'm Fernando García 👋
+# Hola/Hi, I'm Fernando García 👋
 ### **Software Development Engineer in Test (SDET) | QA Automation Engineer**
 
 I am a **Systems Engineer** and **SDET** specializing in designing and implementing scalable, maintainable **test automation frameworks** from scratch using **Java, Selenium WebDriver, TestNG, and REST Assured**. 
